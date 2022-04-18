@@ -3,7 +3,7 @@
 Required installation - python, browser (anything but Safari)
 
 ```
-git clone <THIS REPO>
+git clone https://github.com/manish7130/Affective_Final.git
 cd Affective_Final
 python -m http.server
 ```
